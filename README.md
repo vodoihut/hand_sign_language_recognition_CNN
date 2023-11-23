@@ -6,10 +6,10 @@
 - Chỉnh đường dẫn lưu data trong collect_data.py
 - Run file collect_data.py
 - Đưa tay trước camera rồi nhấn phím "s" để chụp lại ảnh và lưu vào folder chứa data
-##Train model
+## Train model
 - Run file train_model.py
 - Sau khi train xong sẽ có file model của mô hình (ở đây là file mymodels.h5)
-##Sign language recognition application
+## Sign language recognition application
 -Run app.py
 
 ## Result
