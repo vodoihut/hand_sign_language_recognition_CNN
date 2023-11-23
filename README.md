@@ -13,3 +13,4 @@
 -Run app.py
 
 ##Result
+<img src="https://github.com/vodoihut/hand_sign_language_recognition_CNN/blob/main/pictures/handcnn.png"/>
